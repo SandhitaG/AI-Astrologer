@@ -30,7 +30,7 @@ streamlit run app.py
 
 Open the local URL shown in the terminal (usually http://localhost:8501).
 
-## 📦 Project Structure
+## Project Structure
 ```
 ai-astrologer/
 ├─ app.py                 # Streamlit UI
