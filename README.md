@@ -1,4 +1,6 @@
 # Simple AI Astrologer (Rule‑Based Demo)
+![Uploading image.png…]()
+
 
 A Streamlit app that collects birth details (Name, Date, Time, Place), produces a pleasant, rule‑based astrology reading, and answers one free‑text question.
 
