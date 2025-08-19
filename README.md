@@ -20,17 +20,11 @@ A Streamlit app that collects birth details (Name, Date, Time, Place), produces 
 
 ## Setup & Run (Local)
 ```bash
-# 1) Create a virtual environment (recommended)
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
 
-# 2) Install dependencies
+# 1) Install dependencies
 pip install -r requirements.txt
 
-# 3) Run the app
+# 2) Run the app
 streamlit run app.py
 ```
 
