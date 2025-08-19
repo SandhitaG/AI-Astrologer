@@ -2,8 +2,6 @@
 
 A Streamlit app that collects birth details (Name, Date, Time, Place), produces a pleasant, rule‑based astrology reading, and answers one free‑text question.
 
-> **Deadline-ready:** Clean UI, rule‑based output, and free-text Q&A — all in a single-file run. No external API keys needed.
-
 ## Features
 - Clean, single-page Streamlit UI.
 - Rule-based reading using:
